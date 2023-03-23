@@ -32,8 +32,7 @@ Rest-Assured provides a domain-specific language (DSL) that enables testers to w
 - Clone this project
 - Hit the following command: gradle clean test
 - Command for Allure Report
-- After run the project give the following command for generate Allure Report ` -- allure generate allure-results --clean -o allure-report -- allure serve allure-results
-
+- After run the project give the following command for generate Allure Report: `allure generate allure-results --clean -o allure-report and allure serve allure-results
 ## Test cases:
 
 ## Allure Report:
