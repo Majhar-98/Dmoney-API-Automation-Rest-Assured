@@ -1,4 +1,9 @@
 # Dmoney-API-Automation-Rest-Assured
+## Rest Assured Automation:
+Rest-Assured is an open-source Java-based library used for automating RESTful web services testing. It simplifies the process of sending HTTP requests and receiving responses from RESTful services, allowing testers to easily validate the functionality of their API endpoints.
+
+Rest-Assured provides a domain-specific language (DSL) that enables testers to write readable and concise test scripts. The library supports various HTTP methods like GET, POST, PUT, DELETE, and more. It also supports common authentication methods like OAuth, Basic Authentication, and API Keys.
+
 ## Automation steps:
 - Call login API
 - Create a new customer and an agent
