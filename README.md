@@ -34,6 +34,7 @@ Rest-Assured provides a domain-specific language (DSL) that enables testers to w
 - Command for Allure Report
 - After run the project give the following command for generate Allure Report: `allure generate allure-results --clean -o allure-report and allure serve allure-results
 ## Test cases:
+https://drive.google.com/drive/u/2/folders/1HAChtAi8edd88Be4DNIUyggsMWVw0N3f
 
 ## Allure Report:
 ![Azure-1](https://user-images.githubusercontent.com/123467715/227119774-a33a2fd8-97d6-4a9c-b3a7-1786c1373d41.PNG)
