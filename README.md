@@ -25,7 +25,7 @@ Rest-Assured provides a domain-specific language (DSL) that enables testers to w
 - Allure
 - lombok
 ## Prerequisite:
-- JDK 8 or LTD
+- JDK 8 or LTV
 - java IDE
 - configure JAVA_HOME and GRADLE_HOME
 ## How to run this project:
