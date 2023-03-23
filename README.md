@@ -8,12 +8,12 @@ Rest-Assured provides a domain-specific language (DSL) that enables testers to w
 - Call login API
 - Create a new customer and an agent
 - Search by the customer phone number
-- Deposit 5000 tk to the Agent from system
-- Deposit 2000 tk by agent to customer
+- Deposit money to the Agent from system
+- Deposit money by agent to customer
 - Check balance of customer
 - Check statement by trnxId
-- Withdraw 1000 tk by customer and assert expected balance
-- Send 500 tk to another customer and assert expected balance
+- Withdraw money by customer and assert expected balance
+- Send money to another customer and assert expected balance
 - Check customer statement
 ## Technology and Tool Used:
 - Rest-assured
